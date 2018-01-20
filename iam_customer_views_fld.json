@@ -1,0 +1,34 @@
+{
+  "access": [
+    {
+      "role": "WRITER", 
+      "specialGroup": "projectWriters"
+    }, 
+    {
+      "role": "OWNER", 
+      "specialGroup": "projectOwners"
+    }, 
+    {
+      "role": "OWNER", 
+      "userByEmail": "mr.shane.lamont@gmail.com"
+    }, 
+    {
+      "role": "READER", 
+      "specialGroup": "projectReaders"
+    },
+    {
+      "role": "READER",
+      "userByEmail": "mr.shane.lamont.test2@gmail.com"
+    }
+  ], 
+  "creationTime": "1511987182470", 
+  "datasetReference": {
+    "datasetId": "customer_views_fld", 
+    "projectId": "shane-gcp-end-2-end-test"
+  }, 
+  "etag": "\"cX5UmbB_R-S07ii743IKGH9YCYM/MTUxMTk4NzE4MjQ3MA\"", 
+  "id": "shane-gcp-end-2-end-test:customer_views_fld", 
+  "kind": "bigquery#dataset", 
+  "lastModifiedTime": "1511987182470", 
+  "selfLink": "https://www.googleapis.com/bigquery/v2/projects/shane-gcp-end-2-end-test/datasets/customer_views_fld"
+}

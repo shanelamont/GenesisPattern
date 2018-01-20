@@ -1,0 +1,32 @@
+[
+  {
+    "name": "first_name",
+    "type": "STRING",
+    "mode": "nullable"
+  },
+  {
+    "name": "last_name",
+    "type": "STRING",
+    "mode": "nullable"
+  },
+  {
+    "name": "email",
+    "type": "STRING",
+    "mode": "nullable"
+  },
+  {
+    "name": "date_of_birth",
+    "type": "DATE",
+    "mode": "nullable"
+  },
+  {
+    "name": "country_code_2",
+    "type": "STRING",
+    "mode": "nullable"
+  },
+  {
+    "name": "sar",
+    "type": "STRING",
+    "mode": "nullable"
+  }
+]
